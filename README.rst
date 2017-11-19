@@ -7,6 +7,8 @@ Picire
    :target: https://badge.fury.io/py/picire
 .. image:: https://travis-ci.org/renatahodovan/picire.svg?branch=master
    :target: https://travis-ci.org/renatahodovan/picire
+.. image:: https://ci.appveyor.com/api/projects/status/my0fospjoyns9lm4/branch/master?svg=true
+   :target: https://ci.appveyor.com/project/renatahodovan/picire/branch/master
 
 Picire (pronounced as /pitsirE/) is a Python 3 implementation of the
 `Delta Debugging`_ algorithm supporting parallelization and further
@@ -139,8 +141,9 @@ Compatibility
 
 *picire* was tested on:
 
-* Linux (Ubuntu 14.04 / 15.10)
-* Mac OS X (OS X El Capitan - 10.11).
+* Linux (Ubuntu 14.04 / 15.10 / 16.04)
+* Mac OS X (El Capitan 10.11 / Sierra 10.12)
+* Windows (Server 2012 R2 / Windows 10)
 
 
 Acknowledgement and Citations
